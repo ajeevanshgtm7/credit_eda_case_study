@@ -1,1 +1,1 @@
-# credit_eda_case_study
+# credit eda case study
